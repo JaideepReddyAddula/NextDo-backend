@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@CrossOrigin(origins = "https://jaideepreddyaddula.github.io")
+@CrossOrigin(origins = "https://getnextdo.netlify.app/")
 @RestController
 @RequestMapping("/api/todos")
 public class TodoController {
